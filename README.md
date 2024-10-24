@@ -23,12 +23,6 @@ The actual temperature (in degrees Celsius)
 The forecasted temperature (in degrees Celsius) for the following day at noon
 Here is an example of what the the resulting weather report should look like:
 
-year	month	day	obs_tmp	fc_temp
-2023	1	1	10	11
-2023	1	2	11	12
-2023	1	3	12	10
-2023	1	4	13	13
-2023	1	5	10	9
-2023	1	6	11	10
-…	…	…	…	…
+![image](https://github.com/user-attachments/assets/05489bed-78e4-41a6-8cb8-f7c7b2a5d240)
+
 Table 1. Example of weather report
