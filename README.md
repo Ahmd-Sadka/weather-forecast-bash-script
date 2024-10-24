@@ -15,4 +15,20 @@ curl wttr.in/casablanca
 Copied!
 which prints the following to stdout:
 
-https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-LX0117EN-SkillsNetwork/labs/v4_new_content/labs/M4_Practice_Project/wttr_casablanca.png
+![wttr_casablanca](https://github.com/user-attachments/assets/c18c94b5-dbd4-4d1f-81b9-8844cbfc6abd)
+Weather reporting tasks
+You must extract and store the following data every day at noon, local time, for Casablanca, Morocco:
+
+The actual temperature (in degrees Celsius)
+The forecasted temperature (in degrees Celsius) for the following day at noon
+Here is an example of what the the resulting weather report should look like:
+
+year	month	day	obs_tmp	fc_temp
+2023	1	1	10	11
+2023	1	2	11	12
+2023	1	3	12	10
+2023	1	4	13	13
+2023	1	5	10	9
+2023	1	6	11	10
+…	…	…	…	…
+Table 1. Example of weather report
